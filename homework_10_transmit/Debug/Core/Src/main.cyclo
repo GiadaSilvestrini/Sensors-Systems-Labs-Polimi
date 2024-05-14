@@ -1,0 +1,13 @@
+../Core/Src/main.c:87:6:continue_TX_callback	3
+../Core/Src/main.c:106:6:scan_keyboard_callback	1
+../Core/Src/main.c:110:6:HAL_TIM_PeriodElapsedCallback	3
+../Core/Src/main.c:115:6:transmit_byte	2
+../Core/Src/main.c:132:6:scan_keyboard	9
+../Core/Src/main.c:174:5:main	1
+../Core/Src/main.c:230:6:SystemClock_Config	3
+../Core/Src/main.c:277:13:MX_TIM1_Init	4
+../Core/Src/main.c:323:13:MX_TIM2_Init	6
+../Core/Src/main.c:382:13:MX_TIM3_Init	4
+../Core/Src/main.c:427:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:460:13:MX_GPIO_Init	1
+../Core/Src/main.c:518:6:Error_Handler	1

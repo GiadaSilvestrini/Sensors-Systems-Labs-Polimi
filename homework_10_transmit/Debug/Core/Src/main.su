@@ -1,0 +1,13 @@
+../Core/Src/main.c:87:6:continue_TX_callback	16	static
+../Core/Src/main.c:106:6:scan_keyboard_callback	4	static
+../Core/Src/main.c:110:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:115:6:transmit_byte	24	static
+../Core/Src/main.c:132:6:scan_keyboard	56	static
+../Core/Src/main.c:174:5:main	16	static
+../Core/Src/main.c:230:6:SystemClock_Config	88	static
+../Core/Src/main.c:277:13:MX_TIM1_Init	32	static
+../Core/Src/main.c:323:13:MX_TIM2_Init	64	static
+../Core/Src/main.c:382:13:MX_TIM3_Init	32	static
+../Core/Src/main.c:427:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:460:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:518:6:Error_Handler	4	static,ignoring_inline_asm
